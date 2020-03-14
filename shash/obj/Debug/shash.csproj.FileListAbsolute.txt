@@ -1,0 +1,60 @@
+C:\Users\Айнур\Desktop\шашки2\shash\shash\bin\Debug\shash.exe.config
+C:\Users\Айнур\Desktop\шашки2\shash\shash\bin\Debug\shash.exe
+C:\Users\Айнур\Desktop\шашки2\shash\shash\bin\Debug\shash.pdb
+C:\Users\Айнур\Desktop\шашки2\shash\shash\obj\Debug\shash.csprojResolveAssemblyReference.cache
+C:\Users\Айнур\Desktop\шашки2\shash\shash\obj\Debug\shash.Form1.resources
+C:\Users\Айнур\Desktop\шашки2\shash\shash\obj\Debug\shash.Properties.Resources.resources
+C:\Users\Айнур\Desktop\шашки2\shash\shash\obj\Debug\shash.csproj.GenerateResource.Cache
+C:\Users\Айнур\Desktop\шашки2\shash\shash\obj\Debug\shash.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\Desktop\шашки2\shash\shash\obj\Debug\shash.exe
+C:\Users\Айнур\Desktop\шашки2\shash\shash\obj\Debug\shash.pdb
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки\shash\shash\bin\Debug\shash.exe.config
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки\shash\shash\bin\Debug\shash.exe
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки\shash\shash\bin\Debug\shash.pdb
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки\shash\shash\obj\Debug\shash.csprojResolveAssemblyReference.cache
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки\shash\shash\obj\Debug\shash.Form1.resources
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки\shash\shash\obj\Debug\shash.Properties.Resources.resources
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки\shash\shash\obj\Debug\shash.csproj.GenerateResource.Cache
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки\shash\shash\obj\Debug\shash.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки\shash\shash\obj\Debug\shash.exe
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки\shash\shash\obj\Debug\shash.pdb
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки — копия\shash\shash\bin\Debug\shash.exe.config
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки — копия\shash\shash\bin\Debug\shash.exe
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки — копия\shash\shash\bin\Debug\shash.pdb
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки — копия\shash\shash\obj\Debug\shash.csprojResolveAssemblyReference.cache
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки — копия\shash\shash\obj\Debug\shash.Form1.resources
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки — копия\shash\shash\obj\Debug\shash.Properties.Resources.resources
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки — копия\shash\shash\obj\Debug\shash.csproj.GenerateResource.Cache
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки — копия\shash\shash\obj\Debug\shash.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки — копия\shash\shash\obj\Debug\shash.exe
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки — копия\shash\shash\obj\Debug\shash.pdb
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки фаткуллин\shash\shash\bin\Debug\shash.exe.config
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки фаткуллин\shash\shash\bin\Debug\shash.exe
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки фаткуллин\shash\shash\bin\Debug\shash.pdb
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки фаткуллин\shash\shash\obj\Debug\shash.csprojResolveAssemblyReference.cache
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки фаткуллин\shash\shash\obj\Debug\shash.Form1.resources
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки фаткуллин\shash\shash\obj\Debug\shash.Properties.Resources.resources
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки фаткуллин\shash\shash\obj\Debug\shash.csproj.GenerateResource.Cache
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки фаткуллин\shash\shash\obj\Debug\shash.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки фаткуллин\shash\shash\obj\Debug\shash.exe
+C:\Users\Айнур\Desktop\проект шашки\готовые шашки фаткуллин\shash\shash\obj\Debug\shash.pdb
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД\shash\shash\bin\Debug\shash.exe.config
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД\shash\shash\bin\Debug\shash.exe
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД\shash\shash\bin\Debug\shash.pdb
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД\shash\shash\obj\Debug\shash.csprojResolveAssemblyReference.cache
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД\shash\shash\obj\Debug\shash.Form1.resources
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД\shash\shash\obj\Debug\shash.Properties.Resources.resources
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД\shash\shash\obj\Debug\shash.csproj.GenerateResource.Cache
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД\shash\shash\obj\Debug\shash.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД\shash\shash\obj\Debug\shash.exe
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД\shash\shash\obj\Debug\shash.pdb
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД — копия\shash\shash\bin\Debug\shash.exe.config
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД — копия\shash\shash\bin\Debug\shash.exe
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД — копия\shash\shash\bin\Debug\shash.pdb
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД — копия\shash\shash\obj\Debug\shash.csprojResolveAssemblyReference.cache
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД — копия\shash\shash\obj\Debug\shash.Form1.resources
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД — копия\shash\shash\obj\Debug\shash.Properties.Resources.resources
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД — копия\shash\shash\obj\Debug\shash.csproj.GenerateResource.Cache
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД — копия\shash\shash\obj\Debug\shash.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД — копия\shash\shash\obj\Debug\shash.exe
+C:\Users\Айнур\Desktop\проект шашки\АПГРЕЙД — копия\shash\shash\obj\Debug\shash.pdb
